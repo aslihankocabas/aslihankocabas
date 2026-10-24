@@ -7,5 +7,4 @@ Experienced Software Engineer specializing in backend technologies like Java and
 ✨ My interests:
   Java, Spring, PostgreSQL, Architecture  
     
-![](https://komarev.com/ghpvc/?username=aslihankcbs&color=blueviolet)    
-![](https://github-readme-stats.vercel.app/api?username=aslihankcbs&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=aslihankocabas&color=blueviolet)    
